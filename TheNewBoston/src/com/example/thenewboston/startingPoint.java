@@ -29,7 +29,18 @@ public class startingPoint extends Activity
 			@Override
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
-				 
+				
+				
+			}
+		});
+		
+		//Added the on click listener for the sub button
+		sub.setOnClickListener(new View.OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+				
 			}
 		});
 		
