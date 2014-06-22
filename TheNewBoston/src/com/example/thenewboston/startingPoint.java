@@ -29,7 +29,7 @@ public class startingPoint extends Activity
 			@Override
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
-				
+				counter++;
 				
 			}
 		});
@@ -40,7 +40,7 @@ public class startingPoint extends Activity
 			@Override
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
-				
+				counter--;
 			}
 		});
 		
