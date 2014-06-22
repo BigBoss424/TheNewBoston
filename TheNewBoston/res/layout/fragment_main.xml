@@ -22,7 +22,7 @@
         android:id="@+id/bAdd"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/textView1"
+        android:layout_below="@+id/bSubtract"
         android:layout_centerHorizontal="true"
         android:text="Add one"
         android:textSize="20dp" />
