@@ -23,7 +23,7 @@ public class startingPoint extends Activity
 		counter = 0;
 		add = (Button) findViewById(R.id.bAdd);
 		sub = (Button) findViewById(R.id.bSubtract);
-		display = (TextView) findViewById(R.id.textView1);
+		display = (TextView) findViewById(R.id.display);
 		add.setOnClickListener(new View.OnClickListener() {
 			
 			@Override
